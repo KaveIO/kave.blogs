@@ -1,3 +1,5 @@
+This describes the steps taken or changes made in order to migrate to Python 3.
+
 Currently KTB installs Anaconda 4.1.1 with Python 3.5.2.
 ROOT binaries were built against with version of python. Below is a summary of the key changes and challanges:
 
